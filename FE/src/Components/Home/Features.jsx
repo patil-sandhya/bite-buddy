@@ -36,7 +36,7 @@ export default function Features() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-textClr text-3xl md:text-4xl font-bold text-navy-900 mb-4">
-            Why Choose <span className="text-primary">Forky</span>?
+            Why Choose <span className="text-primary">Bite Buddy</span>?
           </h2>
           <p className="text-gray-600 text-lg max-w-2xl mx-auto">
             Fast, fresh, and reliable—every time. We bring your favorite food to your doorstep with care, speed, and unbeatable taste. You crave it, we deliver it.

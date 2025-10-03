@@ -1,13 +1,13 @@
 
-# 🍴 Forky - Food Delivery Web App
+# 🍴 Bite Buddy - Food Delivery Web App
 
-**Forky** is a modern and responsive food delivery web application built with Next.js. Users can browse a variety of dishes, manage their cart, place orders, and receive real-time feedback—all through a clean and intuitive UI.
+**Bite Buddy** is a modern and responsive food delivery web application built with Next.js. Users can browse a variety of dishes, manage their cart, place orders, and receive real-time feedback—all through a clean and intuitive UI.
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 [View Live Website](https://forky-ten.vercel.app/menu)
+🌐 [View Live Website](https://bite_buddy-ten.vercel.app/menu)
 
 ---
 

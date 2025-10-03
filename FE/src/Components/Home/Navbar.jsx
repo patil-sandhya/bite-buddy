@@ -139,7 +139,7 @@ const [showProfile, setShowProfile] = useState(false);
           <Link href="/" className="flex items-center gap-2">
             
             <div className={`text-xl font-bold text-textClr transition-colors `}>
-              For<span className="text-primary">ky</span>
+              Bite<span className="text-primary">Buddy</span>
             </div>
           </Link>
 
