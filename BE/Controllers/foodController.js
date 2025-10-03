@@ -27,12 +27,7 @@ exports.getAllFoods = async (req, res) => {
     if (search) {
       filter.name = { $regex: new RegExp(search, 'i') }; // case-insensitive partial match
     }
-// let foods;
-    // if (!category || category.toLowerCase() === 'all') {
-    //   foods = await FoodItem.find(); // Get all
-    // } else {
-    //   foods = await FoodItem.find({ category: category }); // Filter by category
-    // }
+
     const foods = await FoodItem.find(filter);
     
     res.json(foods);
