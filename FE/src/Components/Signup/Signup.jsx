@@ -68,7 +68,7 @@ const Signup = () => {
       console.log(res)
       if(res?.data){
         // console.log(res.data)
-        setAlert("success", `Welcome to Forky, ${res?.data?.name}. You’re now logged in`)
+        setAlert("success", `Welcome to Bite Buddy, ${res?.data?.name}. You’re now logged in`)
         localStorage.setItem('token', res?.data?.token);
         localStorage.setItem('name', res?.data?.name);
         localStorage.setItem('email', res?.data?.email);

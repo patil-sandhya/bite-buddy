@@ -68,13 +68,13 @@ export default function Footer() {
               <li>123 Food Street</li>
               <li>City, State 12345</li>
               <li>Phone: (555) 123-4567</li>
-              <li>Email: info@forky.com</li>
+              <li>Email: info@bite_buddy.com</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-600">
-          <p>&copy; {new Date().getFullYear()} Forky. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Bite Buddy. All rights reserved.</p>
         </div>
       </div>
     </footer>
